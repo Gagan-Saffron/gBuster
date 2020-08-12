@@ -3,10 +3,10 @@ Simple Non-recursive directory bruteforcer
 
 ThanksTo:
 ---------
-  TheCyberMentor
-  TryHackMe
-  TechWithTim
-  FreeCodeCamp
+  1)TheCyberMentor
+  2)TryHackMe
+  3)TechWithTim
+  4)FreeCodeCamp
   
 usage:
 ------
